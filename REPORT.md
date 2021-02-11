@@ -11,7 +11,8 @@
 В процессе тестирования использовались следующие артефакты 
 - приложение KeyValidator. class
 
-В качестве тестовых данных использовались данные [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+- тестовые данные [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+- проверяемые ключи
 
 Валидные ключи:
 
@@ -29,7 +30,7 @@
 - c2bc778a-1cb9-46c6-b435-0489649d2a42 - FAIL
 - 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 - ОК
 
-Тестирование производилось в следующем окружении:
+## Тестирование производилось в следующем окружении:
 
 - Windows 10, 64
 - Java 11.0.10
